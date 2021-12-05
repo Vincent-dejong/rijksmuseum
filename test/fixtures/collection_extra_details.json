@@ -1,0 +1,290 @@
+{
+    "elapsedMilliseconds": 159,
+    "artObject": {
+        "links": {
+            "search": "http://www.rijksmuseum.nl/api/nl/collection"
+        },
+        "id": "nl-SK-A-2815",
+        "priref": "9048",
+        "objectNumber": "SK-A-2815",
+        "language": "nl",
+        "title": "De zeven werken van barmhartigheid",
+        "copyrightHolder": null,
+        "webImage": {
+            "guid": "dbb93884-cd17-4c10-a32e-2fb0aa9bdce5",
+            "offsetPercentageX": 50,
+            "offsetPercentageY": 50,
+            "width": 2500,
+            "height": 635,
+            "url": "https://lh3.googleusercontent.com/PKiHHjb5ov-6RQm4WjTmQL7gQsiqz-jTgy6aJoUfXFPB-FPJF2XMcgjdpf0rMfPtQoePma2oYkAiN83RDwlyU34phg=s0"
+        },
+        "colors": [
+            {
+                "percentage": 14,
+                "hex": "#D1B681"
+            },
+            {
+                "percentage": 11,
+                "hex": " #A0A7AA"
+            },
+            {
+                "percentage": 10,
+                "hex": " #F3EBCD"
+            },
+            {
+                "percentage": 37,
+                "hex": " #916541"
+            },
+            {
+                "percentage": 9,
+                "hex": " #0D0F0C"
+            },
+            {
+                "percentage": 17,
+                "hex": " #37362A"
+            }
+        ],
+        "colorsWithNormalization": [
+            {
+                "originalHex": "#D1B681",
+                "normalizedHex": "#E0CC91"
+            },
+            {
+                "originalHex": " #A0A7AA",
+                "normalizedHex": "#B5BFCC"
+            },
+            {
+                "originalHex": " #F3EBCD",
+                "normalizedHex": "#FBF6E1"
+            },
+            {
+                "originalHex": " #916541",
+                "normalizedHex": "#B35A1F"
+            },
+            {
+                "originalHex": " #0D0F0C",
+                "normalizedHex": "#000000"
+            },
+            {
+                "originalHex": " #37362A",
+                "normalizedHex": "#2F4F4F"
+            }
+        ],
+        "normalizedColors": [
+            {
+                "percentage": 37,
+                "hex": "#A0522D"
+            },
+            {
+                "percentage": 17,
+                "hex": " #696969"
+            },
+            {
+                "percentage": 14,
+                "hex": " #D2B48C"
+            },
+            {
+                "percentage": 11,
+                "hex": " #A9A9A9"
+            },
+            {
+                "percentage": 10,
+                "hex": " #FFF8DC"
+            },
+            {
+                "percentage": 9,
+                "hex": " #000000"
+            }
+        ],
+        "normalized32Colors": [
+            {
+                "percentage": 37,
+                "hex": "#B35A1F"
+            },
+            {
+                "percentage": 17,
+                "hex": " #2F4F4F"
+            },
+            {
+                "percentage": 14,
+                "hex": " #E0CC91"
+            },
+            {
+                "percentage": 11,
+                "hex": " #B5BFCC"
+            },
+            {
+                "percentage": 10,
+                "hex": " #FBF6E1"
+            },
+            {
+                "percentage": 9,
+                "hex": " #000000"
+            }
+        ],
+        "titles": [
+            "Veelluik met de zeven werken van barmhartigheid",
+            "De zeven werken van barmhartigheid; 1: Het spijzen van de hongerigen 2: Het laven van de dorstigen 3: Het kleden van de naakten 4: Het begraven van de doden 5: Het herbergen van de reizigers 6: Het bezoeken van de zieken 7: Het vertroosten van de gevangenen"
+        ],
+        "description": "De zeven werken van barmhartigheid; 1: Het spijzen van de hongerigen 2: Het laven van de dorstigen 3: Het kleden van de naakten 4: Het begraven van de doden 5: Het herbergen van de reizigers 6: Het bezoeken van de zieken 7: Het vertroosten van de gevangenen. Voor beschrijvingen van de voorstellingen zie de afzonderlijke records.",
+        "labelText": null,
+        "objectTypes": [
+            "schilderij"
+        ],
+        "objectCollection": [
+            "schilderijen"
+        ],
+        "makers": [],
+        "principalMakers": [
+            {
+                "name": "Meester van Alkmaar",
+                "unFixedName": "Meester van Alkmaar",
+                "placeOfBirth": null,
+                "dateOfBirth": null,
+                "dateOfBirthPrecision": null,
+                "dateOfDeath": null,
+                "dateOfDeathPrecision": null,
+                "placeOfDeath": null,
+                "occupation": [
+                    "schilder"
+                ],
+                "roles": [
+                    "schilder"
+                ],
+                "nationality": null,
+                "biography": null,
+                "productionPlaces": [],
+                "qualification": null,
+                "labelDesc": "Meester van Alkmaar"
+            }
+        ],
+        "plaqueDescriptionDutch": "Een Hollandse stad vormt het decor voor een beeldverhaal dat laat zien hoe een goed christen hulpbehoevende mensen moet helpen. Christus staat in bijna elk tafereel tussen de toeschouwers. De scènes geven een indruk van de stedelijke samenleving omstreeks 1500.\r\nTijdens de Beeldenstorm van 1566, waarbij rooms-katholieke kerken door protestanten werden vernield, raakte het werk ernstig beschadigd.",
+        "plaqueDescriptionEnglish": "A town in Holland is the setting for a narrative strip showing how a good Christian should help the needy. In almost all the scenes, Christ appears among the onlookers. The scenes give a sense of town life around 1500.  This is one of the many art works severely damaged when Protestants cleansed Holland’s Catholic churches of what they considered idolatrous imagery in 1566.",
+        "principalMaker": "Meester van Alkmaar",
+        "artistRole": null,
+        "associations": [],
+        "acquisition": {
+            "method": "aankoop",
+            "date": "1918-07-01T00:00:00",
+            "creditLine": "Aankoop met steun van de Vereniging Rembrandt en de Commissie voor Fotoverkoop"
+        },
+        "exhibitions": [],
+        "materials": [
+            "paneel",
+            "olieverf"
+        ],
+        "techniques": [
+            "schilderen"
+        ],
+        "productionPlaces": [],
+        "dating": {
+            "presentingDate": "1504",
+            "sortingDate": 1504,
+            "period": 16,
+            "yearEarly": 1504,
+            "yearLate": 1504
+        },
+        "classification": {
+            "iconClassIdentifier": [
+                "11VV",
+                "42E23",
+                "44G311",
+                "46A212"
+            ],
+            "iconClassDescription": [
+                "the (seven) Acts of Mercy - VV - Christ present",
+                "burial",
+                "prison, jail",
+                "giving alms or other charity, e.g.: handing out food"
+            ],
+            "motifs": [],
+            "events": [
+                "Beeldenstorm (1566)"
+            ],
+            "periods": [],
+            "places": [],
+            "people": [],
+            "objectNumbers": [
+                "SK-A-2815"
+            ]
+        },
+        "hasImage": true,
+        "historicalPersons": [],
+        "inscriptions": [],
+        "documentation": [
+            "Netty Bleichrodt, 'Vernielingen aan De Zeven Werken van Barmhartigheid : Beeldenstorm of stedelijk protest?', Oud Alkmaar 43 (2019) nr. 2, p. 39-49."
+        ],
+        "catRefRPK": [],
+        "principalOrFirstMaker": "Meester van Alkmaar",
+        "dimensions": [
+            {
+                "unit": "cm",
+                "type": "hoogte",
+                "part": "drager",
+                "value": "101"
+            },
+            {
+                "unit": "cm",
+                "type": "breedte",
+                "part": "drager",
+                "value": "54"
+            },
+            {
+                "unit": "cm",
+                "type": "breedte",
+                "part": "drager",
+                "value": "55,5"
+            },
+            {
+                "unit": "cm",
+                "type": "hoogte",
+                "part": "lijst",
+                "value": "119,1"
+            },
+            {
+                "unit": "cm",
+                "type": "breedte",
+                "part": "lijst",
+                "value": "469,5"
+            },
+            {
+                "unit": "cm",
+                "type": "dikte",
+                "part": "lijst",
+                "value": "4"
+            }
+        ],
+        "physicalProperties": [],
+        "physicalMedium": "olieverf op paneel",
+        "longTitle": "De zeven werken van barmhartigheid, Meester van Alkmaar, 1504",
+        "subTitle": "h 101cm × b 54cm",
+        "scLabelLine": "Meester van Alkmaar (werkzaam 1490–1510), Alkmaar, 1504, olieverf op paneel",
+        "label": {
+            "title": "De zeven werken van barmhartigheid",
+            "makerLine": "Meester van Alkmaar (werkzaam 1490–1510), Alkmaar, 1504, olieverf op paneel",
+            "description": "Een Hollandse stad vormt het decor voor een beeldverhaal dat laat zien hoe een goed christen hulpbehoevende mensen moet helpen. Christus\nstaat in bijna elk tafereel tussen de toeschouwers. De scènes geven een indruk van de stedelijke samenleving omstreeks 1500. Tijdens de  Beeldenstorm van 1566, waarbij rooms-katholieke kerken door protestanten werden vernield, raakte het werk ernstig beschadigd.",
+            "notes": "Multimediatour",
+            "date": "2018-02-22"
+        },
+        "showImage": true,
+        "location": "HG-0.4"
+    },
+    "artObjectPage": {
+        "id": "nl-SK-A-2815",
+        "similarPages": [],
+        "lang": "nl",
+        "objectNumber": "SK-A-2815",
+        "tags": [],
+        "plaqueDescription": "Een Hollandse stad vormt het decor voor een beeldverhaal dat laat zien hoe een goed christen hulpbehoevende mensen moet helpen. Christus staat in bijna elk tafereel tussen de toeschouwers. De scènes geven een indruk van de stedelijke samenleving omstreeks 1500.\r\nTijdens de Beeldenstorm van 1566, waarbij rooms-katholieke kerken door protestanten werden vernield, raakte het werk ernstig beschadigd.",
+        "audioFile1": null,
+        "audioFileLabel1": null,
+        "audioFileLabel2": null,
+        "createdOn": "2012-08-09T14:11:21.4175454+00:00",
+        "updatedOn": "2012-08-09T14:11:21.4175454+00:00",
+        "adlibOverrides": {
+            "titel": null,
+            "maker": null,
+            "etiketText": null
+        }
+    }
+}

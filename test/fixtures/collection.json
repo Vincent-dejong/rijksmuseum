@@ -1,0 +1,31 @@
+{
+    "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/SK-A-2815",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/SK-A-2815"
+    },
+    "id": "nl-SK-A-2815",
+    "objectNumber": "SK-A-2815",
+    "title": "De zeven werken van barmhartigheid",
+    "hasImage": true,
+    "principalOrFirstMaker": "Meester van Alkmaar",
+    "longTitle": "De zeven werken van barmhartigheid, Meester van Alkmaar, 1504",
+    "showImage": true,
+    "permitDownload": true,
+    "webImage": {
+        "guid": "dbb93884-cd17-4c10-a32e-2fb0aa9bdce5",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 635,
+        "url": "https://lh3.googleusercontent.com/PKiHHjb5ov-6RQm4WjTmQL7gQsiqz-jTgy6aJoUfXFPB-FPJF2XMcgjdpf0rMfPtQoePma2oYkAiN83RDwlyU34phg=s0"
+    },
+    "headerImage": {
+        "guid": "8b08174c-b8f1-4a40-a8f8-20d98d426183",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/lEPMS16z9Y8aEsbUYI-zE-rTFqKa8AE63loPpzSkZWFFJ8RSxA7BKvgGsn3yOvC6udiX61dF4_smw3SG0-yfksfQ8YDs=s0"
+    },
+    "productionPlaces": ["Amsterdam"]
+}
